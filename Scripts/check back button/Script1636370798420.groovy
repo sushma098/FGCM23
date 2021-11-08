@@ -17,3 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+Mobile.startApplication('C:\\Users\\user\\Downloads\\FMCG.apk', true)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - SKIP (8)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - back (2)'), 0)
+
+Mobile.closeApplication()
+

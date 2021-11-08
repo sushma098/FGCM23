@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Usecurrentloaction</name>
+   <name>usecurrent</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>092411b9-ee0c-4305-9ed6-4f010e2cba94</testCaseGuid>
+   <testCaseGuid>84681559-da06-4ae1-baba-d15876f73f7d</testCaseGuid>
 </TestCaseEntity>
